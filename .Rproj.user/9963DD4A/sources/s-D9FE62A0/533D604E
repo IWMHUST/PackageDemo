@@ -1,0 +1,25 @@
+{
+    "id": "533D604E",
+    "path": "F:/G2/IWMGroup/PackageDemo/R/sayHello.R",
+    "project_path": "R/sayHello.R",
+    "type": "r_source",
+    "hash": "1173524596",
+    "contents": "",
+    "dirty": false,
+    "created": 1604961560213.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "6,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604962393,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604962393157,
+    "read_only": false,
+    "read_only_alternatives": []
+}
